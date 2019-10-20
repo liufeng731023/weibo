@@ -4,5 +4,5 @@
 @section('content')
 <h1>
   this is aboutpage
-</h1>>
+</h1>
 @stop
